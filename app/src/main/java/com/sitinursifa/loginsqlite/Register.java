@@ -1,6 +1,5 @@
 package com.sitinursifa.loginsqlite;
 
-import static com.salsya.loginsqlite.R.id.tvLogin;
 
 import android.content.Intent;
 import android.os.Bundle;

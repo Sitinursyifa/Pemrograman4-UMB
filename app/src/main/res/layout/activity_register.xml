@@ -17,7 +17,6 @@
         android:textStyle="bold"
         android:textColor="@color/pink_primary"
         android:fontFamily="casual"
-        app:layout_constraintTop_toBottomOf="@id/imgMascot"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="12dp" />
