@@ -73,13 +73,13 @@
   </tr>
   <tr>
     <td><img src="Gambar/Login berhasil.png" width="250"/></td>
-    <td><img src="Gambar/4.png" width="250"/></td>
+    <td><img src="Gambar/PW salah.png" width="250"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Berhasil Login</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="Gambar/5.png" width="300"/></td>
+    <td colspan="2" align="center"><img src="Gambar/pw krg dari 6.png" width="300"/></td>
   </tr>
 </table>
 
