@@ -1,7 +1,7 @@
 # 📱 Android Login & Register App with SQLite
 
-## Nama   : Salwa Syahratul Aeni  
-## NIM    : 220220031  
+## Nama   : Siti Nursifa
+## NIM    : 220220017
 ## Prodi  : Sistem Informasi
 
 ---
