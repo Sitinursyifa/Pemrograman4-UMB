@@ -69,11 +69,11 @@
   </tr>
   <tr>
     <td><strong>Validasi Login</strong></td>
-    <td><strong>Validasi Register</strong></td>
+    <td><strong>Password Kurang</strong></td>
   </tr>
   <tr>
-    <td><img src="Gambar/pw_kurang.png" width="250"/></td>
     <td><img src="Gambar/PWsalah.png" width="250"/></td>
+    <td><img src="Gambar/pw_kurang.png" width="250"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Berhasil Login</strong></td>
