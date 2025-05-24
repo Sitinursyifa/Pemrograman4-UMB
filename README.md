@@ -65,21 +65,21 @@
   </tr>
   <tr>
     <td><img src="Gambar/Login.png" width="250"/></td>
-    <td><img src="screenshot/2.png" width="250"/></td>
+    <td><img src="Gambar/Register.png" width="250"/></td>
   </tr>
   <tr>
     <td><strong>Validasi Login</strong></td>
     <td><strong>Validasi Register</strong></td>
   </tr>
   <tr>
-    <td><img src="screenshot/3.png" width="250"/></td>
-    <td><img src="screenshot/4.png" width="250"/></td>
+    <td><img src="Gambar/Login berhasil.png" width="250"/></td>
+    <td><img src="Gambar/4.png" width="250"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Berhasil Login</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="screenshot/5.png" width="300"/></td>
+    <td colspan="2" align="center"><img src="Gambar/5.png" width="300"/></td>
   </tr>
 </table>
 
