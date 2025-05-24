@@ -64,7 +64,7 @@
     <td><strong>Tampilan Register</strong></td>
   </tr>
   <tr>
-    <td><img src="screenshot/1.png" width="250"/></td>
+    <td><img src="Gambar/login.png" width="250"/></td>
     <td><img src="screenshot/2.png" width="250"/></td>
   </tr>
   <tr>
